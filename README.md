@@ -1,6 +1,10 @@
-## Welcome 2018 Mobile
+### Welcome 2018 Mobile
 
-2018.8.12
+2018 新生专题网 H5
 
-太多重复 ... 考虑组件复用嘞 :disappointed:
-
+技术栈
+* vue
+* vue-router
+* webpack
+* echarts
+* animate.css
